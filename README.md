@@ -1,8 +1,10 @@
-
+#FlavourJet
 
 Project Overview:
 
 FlavorJet is a user-friendly food delivery app. The app aims to provide a seamless and enjoyable online food ordering experience for users.
+
+![Image Alt](https://github.com/rishikapawar4/FlavourJet/blob/9e96e90fc445b048bf77a9e2dba97278d5cc6e5d/project.png)
 
 Key Features:
 
